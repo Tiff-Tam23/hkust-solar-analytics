@@ -21,6 +21,7 @@ This project is based on publicly available datasets and research:
 Article:
 A high-resolution three-year dataset supporting rooftop photovoltaics (PV) generation analytics)
 https://www.nature.com/articles/s41597-025-04397-y#Sec8
+
 Dataset (Dryad Repository):
 https://datadryad.org/dataset/doi:10.5061/dryad.m37pvmd99
 
