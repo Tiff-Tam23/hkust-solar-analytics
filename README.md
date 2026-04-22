@@ -1,8 +1,4 @@
-# 🌞 HKUST Solar PV Performance Analytics
-
-
-## 📌 Project Title
-Optimizing Solar PV Performance at HKUST Using 3-Year High-Resolution Data
+# 🌞 Optimizing Solar PV Performance at HKUST Using 3-Year High-Resolution Data
 
 ---
 
