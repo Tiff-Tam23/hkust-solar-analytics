@@ -31,7 +31,10 @@ These sources provide detailed PV generation, irradiance, rainfall, and environm
 To provide a comprehensive understanding of the HKUST solar panel system and generate actionable recommendations for optimization.
 
 ### Specific Objectives
-Visual Insight: Build a diagnostic dashboard integrating multi-source data
-Event-Based Detection: Identify zero-output and abnormal performance days
-Environmental Correlation: Separate weather effects from hardware issues
-Cross-Location Benchmarking: Rank locations using statistical comparisons (Z-score)
+- Visual Insight: Build a diagnostic dashboard integrating multi-source data
+
+- Event-Based Detection: Identify zero-output and abnormal performance days
+
+- Environmental Correlation: Separate weather effects from hardware issues
+
+- Cross-Location Benchmarking: Rank locations using statistical comparisons (Z-score)
